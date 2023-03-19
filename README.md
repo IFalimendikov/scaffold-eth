@@ -24,7 +24,7 @@ git clone https://github.com/scaffold-eth/scaffold-eth.git
 ```bash
 cd scaffold-eth
 yarn install
-yarn chain
+yarn chain1
 ```
 
 > 3️⃣ in a second terminal window, start your 📱 frontend:
